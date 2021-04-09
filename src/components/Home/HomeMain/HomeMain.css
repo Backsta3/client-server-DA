@@ -1,0 +1,57 @@
+#doctorSearch {
+    text-decoration: none;
+    color: rgba(31, 216, 207, 0.966);
+    background: none;
+    width: 600px;
+    height: 45px;
+    margin-bottom: 300px;
+    margin-left: 200px;
+    border: 2px rgba(31, 216, 207, 0.966) solid;
+    border-radius: 6px;
+}
+#searchBtn {
+    margin-left: 50px;
+    width: 150px;
+    height: 45px;
+    border: 2px rgba(31, 216, 207, 0.966) solid;
+    border-radius: 6px;
+    background-color: rgb(253, 253, 238);
+}
+.card {
+    width: 400px;
+    margin-top: 70px;
+    height: 500px;
+    margin-left: 73px;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: paleturquoise;
+    background: none;
+}
+.card-title {
+    text-align: center;
+    color: seashell;
+}
+#ctg {
+    color: seashell;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 75px;
+    width: 200px;
+    height: 45px;
+    border-width: 4px;
+    border-color:rgba(31, 216, 207, 0.966);
+    border-radius: 6px;
+    background-color: rgba(2, 2, 20, 0.822);
+}
+#dhk {
+    color: seashell;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 75px;
+    width: 200px;
+    height: 45px;
+    border-width: 4px;
+    border-color:rgba(31, 216, 207, 0.966);
+    border-radius: 6px;
+    background-color:  rgba(2, 2, 20, 0.822);
+}

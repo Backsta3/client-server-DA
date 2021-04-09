@@ -1,0 +1,37 @@
+.site-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .site-navbar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+  }
+  
+  .site-navbar ul li a {
+    
+    color: #0D052E;
+    font-weight: 700;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  .site-navbar ul li a:hover {
+   
+    color: white !important;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 19px 35px 19px 40px;
+    text-align: center;
+    border: none;
+    background: rgb(42, 245, 235);
+    background: linear-gradient( 90deg, rgb(42, 245, 235) 0%, rgb(38, 224, 168) 81%);
+    border-radius: 15px 15px 15px 15px;
+  }
